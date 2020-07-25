@@ -30,7 +30,7 @@ The purpose of this project was to analyze housing market prices using Zillow da
 <img src="US_Scatter.png" alt="drawing" height="50%" width="50%"/>
 <img src="MN_Scatter.png" alt="drawing" height="50%" width="50%"/>
 <img src="US_Line.png" alt="drawing" height="50%" width="50%"/>
-<img src="MN_Scatter.png" alt="drawing" height="50%" width="50%"/>
+<img src="MN_Line.png" alt="drawing" height="50%" width="50%"/>
 
 
 
