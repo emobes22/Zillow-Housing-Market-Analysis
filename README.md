@@ -28,7 +28,7 @@ The purpose of this project was to analyze housing market prices using Zillow da
 ![US_Scatter.png](US_Line.png) 
 ![MN_Scatter.png](US_Line.png) 
 ![US_Line.png](US_Line.png) 
-![MN_Line.png](US_Line.png) 
+![MN_Linesm2.png](US_Line.png) 
 
 ## Authors
 
