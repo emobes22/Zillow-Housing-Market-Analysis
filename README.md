@@ -6,6 +6,13 @@ Zillow Housing Market Analysis
 
 The purpose of this project was to analyze housing market prices using Zillow data and identify trends.  
 
+## Built With
+
+* [Python](https://www.python.org/) - The language used for coding
+* [Jupyter Notebook](https://jupyter.org/) - The software used for coding
+* [Pandas](https://pandas.pydata.org/) - The library used to generate data frames and filtering data
+* [Matplotlib](https://matplotlib.org/) - The library used for creating graphs
+
 ### Research Questions
 
 When is the best month of the year to purchase a home?
@@ -33,14 +40,6 @@ Matplotlib was used to plot the graphs and save copies of the respective images.
 
 Scatter Plots were created as seen below.  
 
-## Built With
-
-* [Python](https://www.python.org/) - The language used for coding
-* [Jupyter Notebook](https://jupyter.org/) - The software used for coding
-* [Pandas](https://pandas.pydata.org/) - The library used to generate data frames and filtering data
-* [Matplotlib](https://matplotlib.org/) - The library used for creating graphs
-
-
 
 ## Contributing
 
@@ -48,7 +47,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Images
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+![US_Line.png](US_Line.png) 
 
 ## Versioning
 
