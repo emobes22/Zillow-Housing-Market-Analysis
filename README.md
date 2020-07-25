@@ -33,7 +33,7 @@ There are not any visible relationships between home prices and month.
 ## US Line Graph
 <img src="US_Line.png" alt="drawing" height="60%" width="60%"/>
 
-This graph shows home prices declining from 2009 to 2011 in yellow and green.  
+This graph shows home prices declining from 2009 to 2011 in yellow and green.
 Then prices start to increase in 2013 where they reach their pre-recession values.  
 
 ## MN Scatter Plot
