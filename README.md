@@ -4,6 +4,8 @@
 
 The purpose of this project was to analyze housing market prices using Zillow data and identify trends.  
 
+<a href="https://i.postimg.cc/90qpW2dX/MN-Line.png"><img src="https://i.postimg.cc/90qpW2dX/MN-Line.png" width="100" height="100"/></a>
+
 ## Built With
 
 * [Python](https://www.python.org/) - The language used for coding
