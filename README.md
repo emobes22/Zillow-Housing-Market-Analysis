@@ -23,7 +23,6 @@ Pandas
 Matplotlib
 ```
 
-
 ### Overview of Code
 
 Python code was generated to upload csv data into a Jupyter Notebook.  
@@ -36,20 +35,24 @@ Scatter Plots were created as seen below.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python](https://www.python.org/) - The language used for coding
+* [Jupyter Notebook](https://jupyter.org/) - The software used for coding
+* [Pandas](https://pandas.pydata.org/) - The library used to generate data frames and filtering data
+* [Matplotlib](https://matplotlib.org/) - The library used for creating graphs
+
+
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Images
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Images
-![US_Line.png](US_Line.png) 
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
