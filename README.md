@@ -4,7 +4,7 @@
 
 The purpose of this project was to analyze housing market prices using Zillow data and identify trends.  
 
-<img src="MN_Scatter.png" alt="drawing" height="50%" width="50%"/>
+
 
 ## Built With
 
@@ -27,11 +27,12 @@ The purpose of this project was to analyze housing market prices using Zillow da
 * How does the US housing market compare to Minnesota?
 
 ## Images
-![US_Scatter.png](US_Line.png){:height="50%" width="50%"}
-![MN_Scatter.png](US_Line.png) 
-![US_Line.png](US_Line.png) 
-![MN_Linesm2.png](US_Line.png) 
-<img src="MN_Scatter.png" alt="drawing" width="200"/>
+<img src="US_Scatter.png" alt="drawing" height="50%" width="50%"/>
+<img src="MN_Scatter.png" alt="drawing" height="50%" width="50%"/>
+<img src="US_Line.png" alt="drawing" height="50%" width="50%"/>
+<img src="MN_Scatter.png" alt="drawing" height="50%" width="50%"/>
+
+
 
 ## Authors
 
