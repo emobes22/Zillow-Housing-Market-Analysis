@@ -52,17 +52,6 @@ Home pricse are likeley more related to external factors as opposed to the time 
 
 * **Emily Mobley** - *Data collection, coding, analysis and charting
 
-### Tools Used
-
-The following tools were used during the analysis.
-
-```
-Python
-Jupyter Notebook
-Pandas
-Matplotlib
-```
-
 ## Sources
 
 * [Zillow Housing Data](https://www.zillow.com/research/data/) - Data was exported from Zillow's research data website
