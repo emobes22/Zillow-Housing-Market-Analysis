@@ -13,16 +13,16 @@ The purpose of this project was to analyze housing market prices using Zillow da
 
 ### Overview of Code
 
-Python code was generated to upload csv data into a Jupyter Notebook.  
-Pandas sliced and diced the data to section it out based on various fields (Year, Location, Median Home Prices).
-Matplotlib was used to plot the graphs and save copies of the respective images.  
-Scatter Plots and Line Graphs were created for visuals.  
+*Python code was generated to upload csv data into a Jupyter Notebook.  
+*Pandas sliced and diced the data to section it out based on various fields (Year, Location, Median Home Prices).
+*Matplotlib was used to plot the graphs and save copies of the respective images.  
+*Scatter Plots and Line Graphs were created for visuals.  
 
 ### Research Questions
 
-When is the best month of the year to purchase a home?
-Has the housing market bounced back since the housing collapse in 2009?
-How does the US housing market compare to Minnesota?
+*When is the best month of the year to purchase a home?
+*Has the housing market bounced back since the housing collapse in 2009?
+*How does the US housing market compare to Minnesota?
 
 ## Images
 
