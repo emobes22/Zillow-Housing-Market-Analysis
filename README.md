@@ -4,7 +4,7 @@
 
 The purpose of this project was to analyze housing market prices using Zillow data and identify trends.  
 
-<img src="MN_Scatter.png" alt="drawing" height=200 width="200"/>
+<img src="MN_Scatter.png" alt="drawing" height="1044.8" width="1044.8"/>
 
 ## Built With
 
