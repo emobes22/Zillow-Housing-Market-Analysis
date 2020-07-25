@@ -25,7 +25,7 @@ The purpose of this project was to analyze housing market prices using Zillow da
 * How does the US housing market compare to Minnesota?
 
 ## Images
-![US_Scatter.png](US_Line.png) 
+![US_Scatter.png](US_Line.png){:height="50%" width="50%"}
 ![MN_Scatter.png](US_Line.png) 
 ![US_Line.png](US_Line.png) 
 ![MN_Linesm2.png](US_Line.png) 
