@@ -26,8 +26,11 @@ The purpose of this project was to analyze housing market prices using Zillow da
 * Has the housing market bounced back since the housing collapse in 2009?
 * How does the US housing market compare to Minnesota?
 
-## Images
-<img src="US_Scatter.png" alt="drawing" height="50%" width="50%"/> <img src="MN_Scatter.png" alt="drawing" height="50%" width="50%"/>
+## US Scatter Plot
+<img src="US_Scatter.png" alt="drawing" height="50%" width="50%"/> 
+
+## US Line Graph
+<img src="MN_Scatter.png" alt="drawing" height="50%" width="50%"/>
 
 <img src="US_Line.png" alt="drawing" height="50%" width="50%"/>
 <img src="MN_Line.png" alt="drawing" height="50%" width="50%"/>
