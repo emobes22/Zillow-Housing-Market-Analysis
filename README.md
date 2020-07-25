@@ -4,7 +4,9 @@
 
 The purpose of this project was to analyze housing market prices using Zillow data and identify trends.  
 
-<a href="https://i.postimg.cc/90qpW2dX/MN-Line.png"><img src="https://i.postimg.cc/90qpW2dX/MN-Line.png" width="100" height="100"/></a>
+<img src="MN_Scatter.png" alt="drawing" width="200"/>
+
+<a href="https://live.staticflickr.com/65535/50152318232_a6dd9d6bf4_m.jpg"><img src="https://live.staticflickr.com/65535/50152318232_a6dd9d6bf4_m.jpg.png" width="100" height="100"/></a>
 
 ## Built With
 
@@ -31,6 +33,7 @@ The purpose of this project was to analyze housing market prices using Zillow da
 ![MN_Scatter.png](US_Line.png) 
 ![US_Line.png](US_Line.png) 
 ![MN_Linesm2.png](US_Line.png) 
+<img src="MN_Scatter.png" alt="drawing" width="200"/>
 
 ## Authors
 
