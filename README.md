@@ -2,9 +2,7 @@
 
 ## Introduction
 
-The purpose of this project was to analyze housing market prices using Zillow data and identify trends.  
-
-
+The purpose of this project was to analyze housing market prices using Zillow data and identify trends and graph the results.
 
 ## Built With
 
@@ -29,14 +27,21 @@ The purpose of this project was to analyze housing market prices using Zillow da
 ## US Scatter Plot
 <img src="US_Scatter.png" alt="drawing" height="50%" width="50%"/> 
 
+Overall there is a general trend upward for home prices over the three years. There are not any visible relationships between home prices and month.  
+
 ## US Line Graph
 <img src="US_Line.png" alt="drawing" height="60%" width="60%"/>
+
+This graph shows home prices declining from 2009 to 2011 in yellow and green.  Then prices start to increase in 2013 where they reach their pre-recession values.  
 
 ## MN Scatter Plot
 <img src="MN_Scatter.png" alt="drawing" height="50%" width="50%"/>
 
+Minnesota home prices mirror the US, but is a little more volatile with more peaks and valleys.
+
 ## MN Line Graph
 <img src="MN_Line.png" alt="drawing" height="60%" width="60%"/>
+Again, Minnesota home prices mirrors the US with a decline from 2009-2011 and increases from 2012 onward.  In all 4 graphs, there are not any visible relationships between home prices in month, meaning determining an "optimal month" to purchase a home is not feasible.  Home prices likely are more related to external factors as opposed to time of year. 
 
 ## Authors
 
