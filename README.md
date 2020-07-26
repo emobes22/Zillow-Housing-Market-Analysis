@@ -46,7 +46,7 @@ Minnesota home prices mirror the US, but is a little more volatile with more pea
 Again, Minnesota home prices mirrors the US with a decline from 2009-2011 and increases from 2012 onward.  
 In all 4 graphs, there are not any visible relationships between home prices in month.
 This means determining an "optimal month" to purchase a home is not feasible.  
-Home pricse are likeley more related to external factors as opposed to the time of  year.
+Home prices are likely more related to external factors as opposed to the time of  year.
 
 ## Authors
 
